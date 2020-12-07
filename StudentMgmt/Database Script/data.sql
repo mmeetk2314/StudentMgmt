@@ -1,0 +1,3 @@
+﻿INSERT INTO [dbo].[Student] ([student_ID], [student_Name], [student_Email], [student_Mobile], [student_Address], [course_ID], [Course_objcourse_ID]) VALUES (1, N'Himmy', N'himmykainth1998@gmail.com', N'0223532918', N'norton road', 37889007, NULL)
+INSERT INTO [dbo].[Student] ([student_ID], [student_Name], [student_Email], [student_Mobile], [student_Address], [course_ID], [Course_objcourse_ID]) VALUES (2, N'Manmeet', N'jhhk@gmal.com', N'867880980', N'ijkllkj', 1, NULL)
+INSERT INTO [dbo].[Course] ([course_ID], [course_Name], [start_date], [End_date], [Course_duration]) VALUES (1, N'Software Diploma in Web', N'2020-09-07 11:27:00', N'2021-05-21 11:27:00', N'9 Months')
